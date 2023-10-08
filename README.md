@@ -1,8 +1,11 @@
-# React + Vite
+# Usage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Open the Meme Generator in your web browser.,
+2. Input custom text in the "Top text" and "Bottom text" input fields.
+3. Click the "Get a new Meme Image" button to generate a random meme with the entered text.
+4. The generated meme will be displayed below the input fields with the custom text.
+5. Have fun creating memes and experimenting with different text combinations!
 
-Currently, two official plugins are available:
+![troll](C:\Users\rdoza\OneDrive\Masaüstü\Memes Generator\public\TrollFace.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Happy meme-making! 🎉
