@@ -1,0 +1,18 @@
+.navbar {
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  color: #fff;
+}
+
+.troll-face {
+  width: 64px;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
